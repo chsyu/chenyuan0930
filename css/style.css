@@ -53,6 +53,8 @@ body {
 
 	.banner__image {
 		width: 100%;
+		padding: 0;
+		margin: 0;
 	}
 	
 	.main-area {
@@ -60,7 +62,7 @@ body {
 	}
 
 	.sidebar {
-		padding: 0.5em;
+		padding: 0.em;
 	}
 	
 }
@@ -126,7 +128,7 @@ body {
 }
 
 .banner__image {
-	width: 80%;
+	width: 100%;
 	display: block;
 	margin: 0 auto;
 }
